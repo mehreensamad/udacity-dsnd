@@ -1,6 +1,6 @@
 # StackOverflow Survey Analysis
 
-> This project is part of Udacity's Data Science Nanodegree Program (Nanodegree Program). My Medium blog post can be found here.
+> This project is part of Udacity's Data Science Nanodegree Program (Nanodegree Program). My Medium blog post can be found <a href="https://medium.com/@mehreen.samad/understanding-developers-choice-of-programming-language-using-data-science-a8feceafcdc3" target="_blank">**here**</a>.
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 There is 1 notebook available here (Stack_Overflow_Survey_Analysis.ipynb) to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.
 
 ## Results
-The main findings of the code can be found at the post available Use <a href="https://medium.com/" target="_blank">**here**</a>.
+The main findings of the code can be found at the post available <a href="https://medium.com/@mehreen.samad/understanding-developers-choice-of-programming-language-using-data-science-a8feceafcdc3" target="_blank">**here**</a>.
 
 ## Acknowledgements
 Credit to Stack Overflow & Kaggle for the data. You can find the Licensing for the data and other descriptive information <a href="https://www.kaggle.com/stackoverflow/so-survey-2017" target="_blank">**here**</a>. The sole author of this code was Mehreen Samad.
